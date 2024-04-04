@@ -19,9 +19,10 @@ Write the C Program using Linux message queues API
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-### DEVELOPED BY : Bharath K
-### REG NO : 212222110006
-
+```
+ DEVELOPED BY : Bharath K
+ REG NO : 212222110006
+```
 ## C program that receives a message from message queue and display them
 writer .c
 
